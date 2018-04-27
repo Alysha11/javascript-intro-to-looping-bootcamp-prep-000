@@ -1,4 +1,4 @@
-var forLoop [0]
+Function forLoop [0]
 
 for(let i = 0 ; i<25; i++) {
   if i is == 1 return ("I am 1 strange loop.");
