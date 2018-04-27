@@ -14,7 +14,7 @@ for(let i = 0 ; i<25; i++)
 
 function whileLoop(n) {
   
-while (n = 10,  n <=10 ; n-- ) {
+while (n = >0 , n --) {
  
   
   
