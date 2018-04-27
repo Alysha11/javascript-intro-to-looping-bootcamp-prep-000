@@ -12,9 +12,10 @@ for(let i = 0 ; i<25; i++)
 
 }
 
-function whileLoop(10) {
+function whileLoop(n) {
   
-
+while (n = 10,  n <=10 ; n-- ) {
+ 
   
   
 }
